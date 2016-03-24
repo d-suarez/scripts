@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# https://trac.ffmpeg.org/wiki/Map
 # ffmpeg script to extract audio tracks of a video file within a folder.
 OUT="/ram"
 

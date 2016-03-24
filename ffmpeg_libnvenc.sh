@@ -1,3 +1,6 @@
+#!/bin/bash
+
+# List of libraries needed for NVENC
 sudo apt-get install nvidia-cuda-dev
 sudo apt-get install libass-dev
 sudo apt-get install libbluray-dev

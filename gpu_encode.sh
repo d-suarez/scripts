@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #Download and compile ffmpeg_libnvenc from here https://github.com/Brainiarc7/ffmpeg_libnvenc/blob/master/README.md
 #libnvenc and script below will need more tweaking when time permits. h265 is yet to be implemped as everything is highly experimental.  
 
